@@ -3,6 +3,14 @@
     <channel>
         <title>Peekly</title>
         <item>
+            <title>1.0.4</title>
+            <pubDate>Tue, 14 Apr 2026 02:45:25 +0900</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://cjrain-12505614.github.io/Peekly-releases/Peekly-1.0.4.dmg" length="3338356" type="application/octet-stream" sparkle:edSignature="j9NZL6Z95+z7n3MWkaq7o7IUaGVv+rT35ThEo7FVAT+VAoVwDCddkcgn7clb5aIN5izLjmqglN2Z3fwb1hWIBg=="/>
+        </item>
+        <item>
             <title>1.0.3</title>
             <pubDate>Tue, 14 Apr 2026 02:34:26 +0900</pubDate>
             <sparkle:version>4</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure url="https://cjrain-12505614.github.io/Peekly-releases/Peekly-1.0.2.dmg" length="3762546" type="application/octet-stream" sparkle:edSignature="EhMLlcEvZkbSe4DDY5hz7eHoC0JVzLGR+RC4GFmTLmkqFS7xuJwVJFMe8YFnO52Dm4KLJYofsIK4mkRnF1BMDQ=="/>
-        </item>
-        <item>
-            <title>1.0.1</title>
-            <pubDate>Tue, 14 Apr 2026 02:19:22 +0900</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://cjrain-12505614.github.io/Peekly-releases/Peekly-1.0.1.dmg" length="3762921" type="application/octet-stream" sparkle:edSignature="BJpihMmb/bZPFUnsbY5XDMSAsdSQv+YmcIZEe1OAEBxTiKT3MLZDItlI+j6+LP+w2++PDTok6e02PNwaiBIOCQ=="/>
         </item>
     </channel>
 </rss>
