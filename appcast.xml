@@ -3,12 +3,20 @@
     <channel>
         <title>Peekly</title>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Thu, 16 Apr 2026 10:55:54 +0900</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://cjrain-12505614.github.io/Peekly-releases/Peekly-1.1.0.dmg" length="3493288" type="application/octet-stream" sparkle:edSignature="pvUnQ1BNfwu2ZZ14qYmtbznuulGQ4+Okdf0aRgYshjoK8oAcHGTOBWRUrO5e9RdR4o5F78KTo/hz8Pz1ylpiDQ=="/>
+        </item>
+        <item>
             <title>1.0.4</title>
             <pubDate>Tue, 14 Apr 2026 02:45:25 +0900</pubDate>
             <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://cjrain-12505614.github.io/Peekly-releases/Peekly-1.0.4.dmg" length="3338356" type="application/octet-stream" sparkle:edSignature="j9NZL6Z95+z7n3MWkaq7o7IUaGVv+rT35ThEo7FVAT+VAoVwDCddkcgn7clb5aIN5izLjmqglN2Z3fwb1hWIBg=="/>
+            <enclosure url="https://cjrain-12505614.github.io/Peekly-1.0.4.dmg" length="3338356" type="application/octet-stream"/>
         </item>
         <item>
             <title>1.0.3</title>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure url="https://cjrain-12505614.github.io/Peekly-releases/Peekly-1.0.3.dmg" length="3763199" type="application/octet-stream" sparkle:edSignature="4cAPG1H2HICinjYAO+6RsL9FOX+Ecl24imgxO6uNp7E3Qh/MfqbgHZPCz6xj5NgTHwRc5oaQH0YnTbGkvE3ZCw=="/>
-        </item>
-        <item>
-            <title>1.0.2</title>
-            <pubDate>Tue, 14 Apr 2026 02:29:52 +0900</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://cjrain-12505614.github.io/Peekly-releases/Peekly-1.0.2.dmg" length="3762546" type="application/octet-stream" sparkle:edSignature="EhMLlcEvZkbSe4DDY5hz7eHoC0JVzLGR+RC4GFmTLmkqFS7xuJwVJFMe8YFnO52Dm4KLJYofsIK4mkRnF1BMDQ=="/>
         </item>
     </channel>
 </rss>
