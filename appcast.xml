@@ -8,7 +8,7 @@
             <sparkle:version>6</sparkle:version>
             <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://cjrain-12505614.github.io/Peekly-releases/Peekly-1.1.0.dmg" length="3493288" type="application/octet-stream" sparkle:edSignature="pvUnQ1BNfwu2ZZ14qYmtbznuulGQ4+Okdf0aRgYshjoK8oAcHGTOBWRUrO5e9RdR4o5F78KTo/hz8Pz1ylpiDQ=="/>
+            <enclosure url="https://cjrain-12505614.github.io/Peekly-releases/Peekly-1.1.0.dmg" length="3493275" type="application/octet-stream" sparkle:edSignature="wE8Z9HVPnYWbkwzJsdEATu9crxweLzIfjaOJ8PgOuocbzcGQQikskRMdgwBR5gQpUAQzruYxd5GBVqD9/1zbBQ=="/>
         </item>
         <item>
             <title>1.0.4</title>
