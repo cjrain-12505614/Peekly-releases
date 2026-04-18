@@ -8,10 +8,10 @@
             <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://cjrain-12505614.github.io/Peekly-1.2.0.dmg" length="3499751" type="application/octet-stream"/>
+            <enclosure url="https://cjrain-12505614.github.io/Peekly-releases/Peekly-1.2.0.dmg" length="3499751" type="application/octet-stream"/>
             <sparkle:deltas>
-                <enclosure url="https://cjrain-12505614.github.io/Peekly7-6.delta" sparkle:deltaFrom="6" length="126110" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="bcBQ8F2YCDaArGB2b32UswfuuENUo9aRQldI1hZbovoji6c6qf58yvEarFYcDgEoaXaUH7hr+wgp71YgDC9UAg=="/>
-                <enclosure url="https://cjrain-12505614.github.io/Peekly7-5.delta" sparkle:deltaFrom="5" length="267206" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="A6BAz4fcss0dxxltaBUxQl2/1aEnblnLWNAIZ03ixR/vzwFChcup7xYvDTcWWMWpyOdhvzdDXAh9fOXsI7l7AA=="/>
+                <enclosure url="https://cjrain-12505614.github.io/Peekly-releases/Peekly7-6.delta" sparkle:deltaFrom="6" length="126110" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="bcBQ8F2YCDaArGB2b32UswfuuENUo9aRQldI1hZbovoji6c6qf58yvEarFYcDgEoaXaUH7hr+wgp71YgDC9UAg=="/>
+                <enclosure url="https://cjrain-12505614.github.io/Peekly-releases/Peekly7-5.delta" sparkle:deltaFrom="5" length="267206" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="A6BAz4fcss0dxxltaBUxQl2/1aEnblnLWNAIZ03ixR/vzwFChcup7xYvDTcWWMWpyOdhvzdDXAh9fOXsI7l7AA=="/>
             </sparkle:deltas>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <sparkle:version>6</sparkle:version>
             <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://cjrain-12505614.github.io/Peekly-1.1.0.dmg" length="3493275" type="application/octet-stream"/>
+            <enclosure url="https://cjrain-12505614.github.io/Peekly-releases/Peekly-1.1.0.dmg" length="3493275" type="application/octet-stream"/>
         </item>
         <item>
             <title>1.0.4</title>
@@ -28,7 +28,7 @@
             <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://cjrain-12505614.github.io/Peekly-1.0.4.dmg" length="3338356" type="application/octet-stream"/>
+            <enclosure url="https://cjrain-12505614.github.io/Peekly-releases/Peekly-1.0.4.dmg" length="3338356" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
